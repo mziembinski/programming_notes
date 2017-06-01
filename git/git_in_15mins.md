@@ -16,3 +16,5 @@
 
 * [A successful Git branching model I like](http://nvie.com/posts/a-successful-git-branching-model/ "Git branching model")
 * [Nice tutorial ollection](https://www.atlassian.com/git/tutorials "Atlassion tutorials")
+
+* [Visualizing branch topology in git](https://stackoverflow.com/questions/1838873/visualizing-branch-topology-in-git) :notebook:
