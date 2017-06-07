@@ -57,10 +57,10 @@ Nicer log
 git log --graph --full-history --all --color --pretty=format:"%x1b[31m%h%x09%x1b[32m%d%x1b[0m%x20%s"
 ```
 
-which is almost the same as:
-
+similar but shotrer
 ```bash
 git log --format=oneline
+git log --graph --all --simplify-by-decoration
 ```
 
 Another nicer log
@@ -71,6 +71,7 @@ git log --oneline --pretty='%C(red)%h%CresetI%C(yellow)%d%Creset%s%C(green)(%cr)
 Create aliases (e.g.for nice log)
 ```bash
 git config alias.lg "log --oneline --pretty='%C(red)%h%CresetI%C(yellow)%d%Creset%s%C(green)(%cr)%Creset'"
+git lg
 ```
 
 2 diffs
