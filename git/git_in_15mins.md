@@ -2,7 +2,7 @@
 
 ## Workflow
 
-> _check ["A successful Git brnaching model"](http://nvie.com/posts/a-successful-git-branching-model/ "Git branching model") link_
+> _check ["A successful Git branching model"](http://nvie.com/posts/a-successful-git-branching-model/ "Git branching model") link_
 
 The central repo holds two main branches with an infinite lifetime:
 
