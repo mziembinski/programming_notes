@@ -125,7 +125,21 @@ git bisect start head~5
 git bisect run
 ```
 
-### Great links
+## Low level commands
+
+```bash
+git show-ref
+```
+
+```bash
+git cat-file -p [SHA part]
+```
+
+```bash
+git ls-tree -r [SHA part]
+```
+
+## Great links
 
 * [First Git cheatsheet](https://education.github.com/git-cheat-sheet-education.pdf "Github education")
 * [Second but similar Git cheatsheet](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf "Github training")
