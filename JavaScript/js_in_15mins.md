@@ -11,6 +11,7 @@
 
 * [Google developers WebVR page](https://developers.google.com/web/fundamentals/vr/)
 * [DayDream developers](https://vr.google.com/daydream/developers/)
+* [Facebook Spaces Design](https://medium.com/@christauziet/designing-facebook-spaces-part-1-embarking-on-a-new-vr-journey-a70688da91e1)
 
 ### Top level/ easy-to-use environments
 
