@@ -19,6 +19,7 @@
 * [AFrame npm](https://www.npmjs.com/package/aframe)
 * [Awesome AFrame](https://github.com/aframevr/awesome-aframe "A collection of awesome resources for the A-Frame WebVR framework.")
 * [ReactVR](https://facebook.github.io/react-vr/)
+* [How does React VR work?](https://medium.com/@mike.bieronski/how-does-react-vr-work-cf86cd5568a1)
 
 ### Lower level - advance environment
 
